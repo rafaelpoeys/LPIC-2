@@ -1,7 +1,7 @@
 # LPIC-2
 Certificação LPIC-2: Engenheiro Linux
 
-## O que há aqui?
+## O que você vai encontrar aqui?
 Todo material que utilizei, metodos que utilizei e o que eu aprendi.
 
 ### Issues
